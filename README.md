@@ -1,4 +1,4 @@
-Engeheiro de dados de um E-commerce Literário com SQL 
+Engenheiro de dados de um E-commerce Literário com SQL 
 
 Contexto e Problema de Negócio: 
 Este projeto simula o dia a dia de um Analista de Dados em uma livraria. O objetivo foi extrair, transformar e analisar dados de um banco de dados relacional para responder a 10 demandas estratégicas de negócio solicitadas pela Diretoria (Operações, Vendas, Estoque, Financeiro e Marketing).
