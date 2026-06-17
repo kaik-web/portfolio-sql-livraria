@@ -35,7 +35,7 @@ Key Outcomes:
 - Demonstrated that data supports decisions across all business areas
 
 ---
-
+<a name="pt"></a>
  #-engenheiro-de-dados--pipeline-sql--e-commerce-literario
 
 Contexto:
