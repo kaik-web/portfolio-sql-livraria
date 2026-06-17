@@ -36,7 +36,7 @@ Key Outcomes:
 
 ---
 
-## 📊 Engenheiro de Dados | Pipeline SQL — E-commerce Literário
+ Engenheiro de Dados | Pipeline SQL — E-commerce Literário:
 
 Contexto:
 Este projeto simula um cenário real de engenharia de dados em uma livraria online. O objetivo foi modelar a estrutura relacional do banco de dados e construir um pipeline SQL para responder a 10 demandas estratégicas de negócio solicitadas pela Diretoria (Operações, Vendas, Estoque, Financeiro e Marketing).
