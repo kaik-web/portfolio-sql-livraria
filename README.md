@@ -1,10 +1,10 @@
-# 📚 SQL Data Pipeline — Literary E-commerce | Livraria E-commerce
+# SQL Data Pipeline — Literary E-commerce | Livraria E-commerce
 
-> 🇧🇷 [Versão em Português abaixo](#pt)
+>  [Versão em Português abaixo](#pt)
 
 ---
 
-## 📊 SQL Data Pipeline — Literary E-commerce
+##  SQL Data Pipeline — Literary E-commerce
 
 ### Context
 This project simulates a real-world data engineering scenario inside a literary e-commerce company. The goal was to design a relational database, model the data structure, and build a SQL pipeline to answer 10 strategic business demands from different departments (Operations, Sales, Inventory, Finance, and Marketing).
@@ -37,7 +37,7 @@ This project simulates a real-world data engineering scenario inside a literary 
 ---
 
 <a name="pt"></a>
-## 📊 Análise de Dados | Pipeline SQL — E-commerce Literário
+## Engenheiro de Dados | Pipeline SQL — E-commerce Literário
 
 ### Contexto
 Este projeto simula um cenário real de engenharia de dados em uma livraria online. O objetivo foi modelar a estrutura relacional do banco de dados e construir um pipeline SQL para responder a 10 demandas estratégicas de negócio solicitadas pela Diretoria (Operações, Vendas, Estoque, Financeiro e Marketing).
