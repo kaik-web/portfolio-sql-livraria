@@ -1,17 +1,17 @@
-# 📚 SQL Data Pipeline — Literary E-commerce | Livraria E-commerce
+ SQL Data Pipeline — Literary E-commerce | Livraria E-commerce
 
 > 🇧🇷 [Versão em Português abaixo](#-análise-de-dados--pipeline-sql--e-commerce-literário)
 
 ---
 
-## 📊 SQL Data Pipeline — Literary E-commerce
+ SQL Data Pipeline — Literary E-commerce:
 
-### Context
+Context:
 This project simulates a real-world data engineering scenario inside a literary e-commerce company. The goal was to design a relational database, model the data structure, and build a SQL pipeline to answer 10 strategic business demands from different departments (Operations, Sales, Inventory, Finance, and Marketing).
 
-### Tools & Technologies
-- **Language:** SQL
-- **Concepts applied:** Filtering (`WHERE`, `IS NULL`), Aggregations (`SUM`, `COUNT`, `GROUP BY`), Sorting (`ORDER BY`), Multi-table Joins (`INNER JOIN`, `LEFT JOIN`), Subqueries and CTEs (`WITH`)
+Tools & Technologies:
+- Language:SQL
+- Concepts applied: Filtering (`WHERE`, `IS NULL`), Aggregations (`SUM`, `COUNT`, `GROUP BY`), Sorting (`ORDER BY`), Multi-table Joins (`INNER JOIN`, `LEFT JOIN`), Subqueries and CTEs (`WITH`)
 
 ### Pipeline — Business Problems Solved
 
@@ -28,7 +28,7 @@ This project simulates a real-world data engineering scenario inside a literary 
 | 09 | Finance | Daily cash flow timeline |
 | 10 | Strategy | Total revenue per author for exclusivity negotiation |
 
-### Key Outcomes
+Key Outcomes:
 - Identified top authors and customers (ABC Curve analysis)
 - Optimized logistics planning by state demand
 - Delivered segmented marketing contacts
@@ -36,16 +36,16 @@ This project simulates a real-world data engineering scenario inside a literary 
 
 ---
 
-## 📊 Análise de Dados | Pipeline SQL — E-commerce Literário
+## 📊 Engenheiro de Dados | Pipeline SQL — E-commerce Literário
 
-### Contexto
+Contexto:
 Este projeto simula um cenário real de engenharia de dados em uma livraria online. O objetivo foi modelar a estrutura relacional do banco de dados e construir um pipeline SQL para responder a 10 demandas estratégicas de negócio solicitadas pela Diretoria (Operações, Vendas, Estoque, Financeiro e Marketing).
 
-### Ferramentas e Tecnologias
-- **Linguagem:** SQL
-- **Conceitos aplicados:** Filtros (`WHERE`, `IS NULL`), Agregações (`SUM`, `COUNT`, `GROUP BY`), Ordenação (`ORDER BY`), Relacionamento de múltiplas tabelas (`INNER JOIN`, `LEFT JOIN`), Subconsultas e CTEs (`WITH`)
+Ferramentas e Tecnologias:
+- Linguagem: SQL
+- Conceitos aplicados: Filtros (`WHERE`, `IS NULL`), Agregações (`SUM`, `COUNT`, `GROUP BY`), Ordenação (`ORDER BY`), Relacionamento de múltiplas tabelas (`INNER JOIN`, `LEFT JOIN`), Subconsultas e CTEs (`WITH`)
 
-### Pipeline — Problemas de Negócio Resolvidos
+Pipeline — Problemas de Negócio Resolvidos:
 
 | # | Área | Problema |
 |---|------|---------|
@@ -60,7 +60,7 @@ Este projeto simula um cenário real de engenharia de dados em uma livraria onli
 | 09 | Financeiro | Linha do tempo de faturamento diário (fluxo de caixa) |
 | 10 | Estratégia | Faturamento total por autor para negociação de exclusividade |
 
-### Conclusões
+Conclusões:
 - Identificação dos autores e clientes mais valiosos (Curva ABC)
 - Planejamento logístico otimizado com base na demanda por estado
 - Entrega de contatos segmentados para o marketing
