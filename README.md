@@ -1,6 +1,6 @@
  SQL Data Pipeline — Literary E-commerce | Livraria E-commerce
 
-> 🇧🇷 [Versão em Português abaixo](#-análise-de-dados--pipeline-sql--e-commerce-literário)
+> 🇧🇷 [Versão em Português abaixo](#-Engenheiro de Dados | Pipeline SQL — E-commerce Literário:)
 
 ---
 
